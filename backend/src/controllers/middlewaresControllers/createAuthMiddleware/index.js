@@ -34,4 +34,4 @@ const createAuthMiddleware = (userModel) => {
   return authMethods;
 };
 
-module.exports = createAuthMiddleware;
+module.exports = createAuthMiddleware;   
